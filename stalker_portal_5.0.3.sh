@@ -8,7 +8,7 @@ apt-get install net-tools -y
 
 VERSION="5.0.3"
 TIME_ZONE="Europe/Amsterdam"
-mysql_root_password="test123456"
+mysql_root_password="000111000"
 repository="http://vancho.xyz/stalker"
 
 # SET LOCALE TO UTF-8
